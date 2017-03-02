@@ -1,0 +1,3 @@
+a:hover{ background-color: green; }
+.Bug{ color: pink; }
+@media screen and (max-width: 480px){body{ background-color: red; }}
